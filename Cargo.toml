@@ -1,0 +1,5 @@
+[package]
+
+name = "dsm"
+version = "0.0.1"
+authors = [ "Peter Boyer <peter.b.boyer@gmail.com>" ]
